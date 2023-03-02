@@ -1,0 +1,17 @@
+#search_form{
+    text-align: center;
+    
+    display:block;
+    margin: 0 auto; 
+    padding: 10px;
+    
+}
+#inp_search{
+    outline: none;
+}
+#btn_search{
+    border:none;
+    border-radius: 5px;
+    padding: 4px 10px;
+    
+}
